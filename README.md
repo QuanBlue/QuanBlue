@@ -4,7 +4,7 @@
   <h1 align="center">Hello there, I'm NTQuan 👋</h1>
 </p>
 
-  <h4 align="center">My goal is become a <b>CYBER SECURITY 💻</b></h4>
+  <h3 align="center">My goal is become a <b>CYBER SECURITY 💻</b></h3>
 
 <p align="center">
   <a href="https://www.facebook.com/QuanBlueee/"><img style="height:55px;"  src="https://www.transparentpng.com/thumb/facebook-logo-png/background-facebook-logo-5.png" alt="Facebook" /></a>
@@ -13,19 +13,14 @@
   <a href="mailto:quannguyenthanh558@gmail.com"><img style="height:45px;" src="https://1ty.vn/datafiles/3/2019-12-23/Cach-chen-link-vao-hinh-anh-tren-Gmail.jpg" alt="Gmail"/></a>&nbsp;
 </p>
 
-<br>
 
-<!-- <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
-
-### I am a Student of Ho Chi Minh university of Sience 🏫
-- 🥅 Goals: Cyber security
-- 💬 Ask me about anything, I am happy to help :smile:
-- 📬 Contact me: <a href='quannguyenthanh558@gmail.com'>quannguyenthanh558@gmail.com</a> 
+<h2> I am a Student of Ho Chi Minh university of Sience 🏫 </h2>
+- 🥅 Goals: Cyber security <br>
+- 💬 Ask me about anything, I am happy to help :smile: <br>
+- 📬 Contact me: <a href='quannguyenthanh558@gmail.com'>quannguyenthanh558@gmail.com</a>  <br>
 - 🧗 I try to: Go beyond and push the bounds
 
-<br>
-
-### 🧰 Languages: 
+<h2> 🧰 Languages: </h2>
 
 <img align="left" alt="HTML5" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -38,7 +33,7 @@
 <br>
 <br>
 
-### ⚙️ GitHub Analytics
+<h2> ⚙️ GitHub Analytics </h2>
 
 <p align="center">
 <a href="https://github.com/QuanBlue">
