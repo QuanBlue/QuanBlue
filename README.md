@@ -14,7 +14,7 @@
 </p>
 
 
-<h2> I am a Student of Ho Chi Minh university of Sience 🏫 </h2>
+<h2> I am a student of Ho Chi Minh University of Sience 🏫 </h2>
 - 🥅 Goals: Cyber security <br>
 - 💬 Ask me about anything, I am happy to help :smile: <br>
 - 📬 Contact me: <a href='quannguyenthanh558@gmail.com'>quannguyenthanh558@gmail.com</a>  <br>
