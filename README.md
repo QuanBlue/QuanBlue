@@ -37,7 +37,7 @@
 
 <p align="center">
 <a href="https://github.com/QuanBlue">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QuanBlue&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QuanBlue&layout=compact&exclude_lang=java+r&theme=vue-dark" />
+  <img width="46%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=QuanBlue&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img width="53%" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=QuanBlue&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
 </p>
