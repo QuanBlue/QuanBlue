@@ -15,6 +15,7 @@
 
 
 <h2> I am a student of Ho Chi Minh University of Sience 🏫 </h2>
+- 📬 My HCMUS repository: <a href='https://github.com/QuanBlue-HCMUS-Project'>https://github.com/QuanBlue-HCMUS-Project</a>  <br>
 - 🥅 Goals: Cyber security <br>
 - 💬 Ask me about anything, I am happy to help :smile: <br>
 - 📬 Contact me: <a href='quannguyenthanh558@gmail.com'>quannguyenthanh558@gmail.com</a>  <br>
