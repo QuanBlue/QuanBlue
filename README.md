@@ -15,7 +15,7 @@
 
 
 <h2> I am a student of Ho Chi Minh University of Sience 🏫 </h2>
-- 🥅 Goals: Cyber security <br>
+- 🥅 Goals: DevSecOps <br>
 - 💬 Ask me about anything, I am happy to help :smile: <br>
 - 📬 Contact me: <a href='quannguyenthanh558@gmail.com'>quannguyenthanh558@gmail.com</a>  <br>
 - 🧗 I try to: Go beyond and push the bounds
