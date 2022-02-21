@@ -2,24 +2,16 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/QuanBlue) 
 # Hi, I'm <b>Nguyen Thanh Quan</b>
 
-## <img src="./assets/about.png" height="28px" alt="about" title="about" style="margin-bottom:-5px;"/> ABOUT ME:
+## <img src="./assets/about.png" height="28px" alt="about" title="about" style="margin-bottom:-10px;"/> ABOUT ME:
 - I am a third-year undergraduate student at **VNUHCM-University of Science**, majoring in **Computer Networks**.
 - My goal is become a **DevOps engineer 💻**
 - Kinda self-motivated learner.
 - I try to: Go beyond and push the bounds
 - Hobby: calisthenic, read tech blogs, listen to music.
 
-
-
 --- 
-
-
 ## <img src="./assets/technology.png" height="24px" alt="technology" title="technology"/> TECHNOLOGIES:
 <table>
-    <tr>
-        <th></th>
-        <th></th>
-    </tr>
     <tr>
         <td>Framework</td>
         <td>
