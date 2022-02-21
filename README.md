@@ -53,8 +53,6 @@
             <img src="./assets/mongo.svg" height="30px" alt="mongodb" title="MongoDB"/>
             &nbsp;
         </td>
-        <td>
-        </td>
     </tr>
     <tr>
         <td>CI/CD</td>
