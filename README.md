@@ -2,7 +2,7 @@
   [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/QuanBlue) 
 # Hi, I'm <b>NGUYEN THANH QUAN</b>
 
-## <img src="./assets/about.png" height="28px" alt="about" title="about"/> About me:
+## <img src="./assets/about.png" height="28px" alt="about" title="about"/> ABOUT ME:
 - I am a third-year undergraduate student at **VNUHCM-University of Science**, majoring in **Computer Networks**.
 - My goal is become a **DevOps engineer 💻**
 - Kinda self-motivated learner.
@@ -10,7 +10,7 @@
 - Hobby: calisthenic, read tech blogs, listen to music.
 
 --- 
-## <img src="./assets/technology.png" height="24px" alt="technology" title="technology"/> Technologies:
+## <img src="./assets/technology.png" height="24px" alt="technology" title="technology"/> TECHNOLOGY:
 <table>
     <tr>
         <td>Framework</td>
@@ -83,7 +83,7 @@
 </table>
 
 ---
-## <img src="./assets/contact.png" height="24px" alt="contact" title="contact"/> Contact me:
+## <img src="./assets/contact.png" height="24px" alt="contact" title="contact"/> CONTACT ME:
 
 <a href="mailto:quannguyenthanh558@gmail.com"><img src="./assets/gmail.png" height="28px" alt="gmail" title="My Gmail address"/></a>
 &nbsp;
@@ -92,7 +92,7 @@
 <a href="https://www.facebook.com/QuanBlueee/"><img src="./assets/facebook.png" height="28px" alt="facebook" title="My Facebook account"/></a>
 
 ---
-## <img src="./assets/analytic.png" height="24px" alt="contact" title="contact"/>  Github analytics:
+## <img src="./assets/analytic.png" height="24px" alt="contact" title="contact"/>  GITHUB ANALYTICS:
 
 <p align="center">
 <a href="https://github.com/QuanBlue">
