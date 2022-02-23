@@ -76,13 +76,15 @@
 ### I'm currently studying: 
 <table>
     <tr>
-        <img src="./assets/golang.svg" height="30px" alt="golang" title="Golang"/>    
-        &nbsp;
-        <img src="./assets/kubernetes.svg" height="30px" alt="kubernetes" title="Kubernetes"/> 
-        &nbsp;
-        <img src="./assets/mongo.svg" height="30px" alt="mongodb" title="MongoDB"/>   
-        &nbsp;
-        <img src="./assets/typescript_official.svg" height="30px" alt="typescript" title="Typescript"/>
+        <td>
+            <img src="./assets/golang.svg" height="30px" alt="golang" title="Golang"/>    
+            &nbsp;
+            <img src="./assets/kubernetes.svg" height="30px" alt="kubernetes" title="Kubernetes"/> 
+            &nbsp;
+            <img src="./assets/mongo.svg" height="30px" alt="mongodb" title="MongoDB"/>   
+            &nbsp;
+            <img src="./assets/typescript_official.svg" height="30px" alt="typescript" title="Typescript"/>
+        </td>
     </tr>
 </table>
 
