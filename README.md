@@ -33,19 +33,10 @@
             &nbsp;
             <img src="./assets/js_official.svg" height="30px" alt="javascript" title="Javascript"/>
             &nbsp;
-            <img src="./assets/typescript_official.svg" height="30px" alt="typescript" title="Typescript"/>
-            &nbsp;
             <img src="./assets/python.svg" height="30px" alt="python" title="Python"/>
             &nbsp;
         </td>
     </tr> 
-    <tr>
-        <td>Database</td>
-        <td>
-            <img src="./assets/mongo.svg" height="30px" alt="mongodb" title="MongoDB"/>
-            &nbsp;
-        </td>
-    </tr>
     <tr>
         <td>CI/CD</td>
         <td>
@@ -81,6 +72,15 @@
     </tr>
     
 </table>
+
+### I'm currently studying: 
+<img src="./assets/golang.svg" height="30px" alt="golang" title="Golang"/>    
+&nbsp;
+<img src="./assets/kubernetes.svg" height="30px" alt="kubernetes" title="Kubernetes"/> 
+&nbsp;
+<img src="./assets/mongo.svg" height="30px" alt="mongodb" title="MongoDB"/>   
+&nbsp;
+<img src="./assets/typescript_official.svg" height="30px" alt="typescript" title="Typescript"/>
 
 ---
 ## <img src="./assets/contact.png" height="24px" alt="contact" title="contact"/> CONTACT ME:
