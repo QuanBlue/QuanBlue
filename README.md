@@ -73,8 +73,11 @@
     
 </table>
 
-### I'm currently studying: 
+### And
 <table>
+    <tr>
+        <th>I'm currently studying: </th>
+    </tr>
     <tr>
         <td>
             <img src="./assets/golang.svg" height="30px" alt="golang" title="Golang"/>    
