@@ -4,7 +4,7 @@
 
 ## <img src="./assets/about.png" height="28px" alt="about" title="about"/> ABOUT ME:
 - I am a third-year undergraduate student at **VNUHCM-University of Science**, majoring in **Computer Networks**.
-- My goal is become a **DevOps engineer 💻**
+- My goal is become a **Frontend engineer 💻**
 - Kinda self-motivated learner.
 - I try to: Go beyond and push the bounds
 - Hobby: calisthenic, read tech blogs, listen to music.
