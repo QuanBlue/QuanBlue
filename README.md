@@ -35,11 +35,11 @@
             &nbsp;
             <img src="./assets/js_official.svg" height="30px" alt="javascript" title="Javascript"/>
             &nbsp;
-            <img src="./assets/python.svg" height="30px" alt="python" title="Python"/>
-            &nbsp;
             <img src="./assets/typescript_official.svg" height="30px" alt="typescript" title="Typescript"/>
+            &nbsp;
+            <img src="./assets/python.svg" height="30px" alt="python" title="Python"/>
         </td>
-    </tr> 
+    </tr>
     <tr>
         <td>CI/CD</td>
         <td>
@@ -59,7 +59,7 @@
         </td>
     </tr>
     <tr>
-        <td>Text Editor</td>
+        <td>IDE/ Text Editor</td>
         <td>
             <img src="./assets/vscode.svg" height="30px" alt="vscode" title="VSCode"/>
             &nbsp;
@@ -70,9 +70,17 @@
     <tr>
         <td>Database</td>
         <td>
-            <img src="./assets/microsoft_sql_server.png" height="30px" alt="msSQLserver" title="SQL Server"/>   
-            &nbsp;  
-            <img src="./assets/mongo.svg" height="30px" alt="mongodb" title="MongoDB"/>   
+            <img src="./assets/mongo.svg" height="30px" alt="mongodb" title="MongoDB"/>
+            &nbsp;
+            <img src="./assets/microsoft_sql_server.png" height="30px" alt="msSQLserver" title="SQL Server"/>
+        </td>
+    </tr>
+     <tr>
+        <td>API</td>
+        <td>
+            <img src="./assets/restapi.png" height="30px" alt="restapi" title="Rest API"/> 
+            &nbsp;
+            <img src="./assets/graphql.png" height="30px" alt="graphql" title="GraphQL"/>
         </td>
     </tr>
     <tr>
@@ -83,7 +91,6 @@
             <img src="./assets/photoshop.svg" height="30px" alt="photoshop" title="Photoshop"/>
         </td>
     </tr>
-    
 </table>
 
 ### And
