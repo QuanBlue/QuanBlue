@@ -17,7 +17,9 @@
         <td>
             <img src="./assets/reactjs.svg" height="30px" alt="reactjs" title="React JS"/>
             &nbsp;
-            <img src="./assets/expressjs.svg" height="30px" alt="reactjs" title="Express JS"/>
+            <img src="./assets/expressjs.svg" height="30px" alt="expressjs" title="Express JS"/>
+            &nbsp;
+            <img src="./assets/nextjs.svg" height="30px" alt="nextjs" title="Next JS"/>
         </td>
     </tr>
     <tr>
@@ -35,6 +37,7 @@
             &nbsp;
             <img src="./assets/python.svg" height="30px" alt="python" title="Python"/>
             &nbsp;
+            <img src="./assets/typescript_official.svg" height="30px" alt="typescript" title="Typescript"/>
         </td>
     </tr> 
     <tr>
@@ -60,6 +63,16 @@
         <td>
             <img src="./assets/vscode.svg" height="30px" alt="vscode" title="VSCode"/>
             &nbsp;
+            <img src="./assets/sublime_text.svg" height="30px" alt="sublime_text" title="Sublime Text"/>
+            &nbsp;
+        </td>
+    </tr>
+    <tr>
+        <td>Database</td>
+        <td>
+            <img src="./assets/microsoft_sql_server.png" height="30px" alt="msSQLserver" title="SQL Server"/>   
+            &nbsp;  
+            <img src="./assets/mongo.svg" height="30px" alt="mongodb" title="MongoDB"/>   
         </td>
     </tr>
     <tr>
@@ -83,10 +96,6 @@
             <img src="./assets/golang.svg" height="30px" alt="golang" title="Golang"/>    
             &nbsp;
             <img src="./assets/kubernetes.svg" height="30px" alt="kubernetes" title="Kubernetes"/> 
-            &nbsp;
-            <img src="./assets/mongo.svg" height="30px" alt="mongodb" title="MongoDB"/>   
-            &nbsp;
-            <img src="./assets/typescript_official.svg" height="30px" alt="typescript" title="Typescript"/>
         </td>
     </tr>
 </table>
