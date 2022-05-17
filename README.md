@@ -100,9 +100,11 @@
     </tr>
     <tr>
         <td>
-            <img src="./assets/golang.svg" height="30px" alt="golang" title="Golang"/>    
+            <img src="./assets/golang.svg" height="30px" alt="golang" title="Golang"/>
             &nbsp;
-            <img src="./assets/kubernetes.svg" height="30px" alt="kubernetes" title="Kubernetes"/> 
+            <img src="./assets/kubernetes.svg" height="30px" alt="kubernetes" title="Kubernetes"/>
+            &nbsp;
+            <img src="./assets/jest.png" height="30px" alt="jest" title="Jest"/>
         </td>
     </tr>
 </table>
