@@ -8,8 +8,7 @@
 </p>
 
 <div align="center">
-<h2> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="./assets/Handshake.gif" width="60"></a>
-</h2> 
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="./assets/Handshake.gif" width="60"></a></h3> 
     <a href="https://quanblue.netlify.app/"><img alt="Website badge" src="https://img.shields.io/badge/Website-EC8B00?logo=google-chrome&logoColor=white"></a>
     <a href="https://linkedin.com/in/quanblue"><img alt="LinkedIn badge" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white"></a>
     <a href="https://www.facebook.com/QuanBlueee/"><img alt="Facebook badge" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
