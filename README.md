@@ -8,8 +8,12 @@
 </p>
 
 <div align="center">
+<<<<<<< HEAD
 <h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="./assets/Handshake.gif" width="60"></a>
 </h3> 
+=======
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="./assets/Handshake.gif" width="60"></a></h3> 
+>>>>>>> 03860907949b05d4d573dc021a4a1e4b832dd74c
     <a href="https://quanblue.netlify.app/"><img alt="Website badge" src="https://img.shields.io/badge/Website-EC8B00?logo=google-chrome&logoColor=white"></a>
     <a href="https://linkedin.com/in/quanblue"><img alt="LinkedIn badge" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white"></a>
     <a href="https://www.facebook.com/QuanBlueee/"><img alt="Facebook badge" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
