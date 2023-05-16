@@ -8,8 +8,8 @@
 </p>
 
 <div align="center">
-<h2> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="./assets/Handshake.gif" width="60"></a>
-</h2> 
+<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="./assets/Handshake.gif" width="60"></a>
+</h3> 
     <a href="https://quanblue.netlify.app/"><img alt="Website badge" src="https://img.shields.io/badge/Website-EC8B00?logo=google-chrome&logoColor=white"></a>
     <a href="https://linkedin.com/in/quanblue"><img alt="LinkedIn badge" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white"></a>
     <a href="https://www.facebook.com/QuanBlueee/"><img alt="Facebook badge" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
@@ -177,7 +177,7 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/QuanBlue/Portfolio"><b>🚀 Portfolio</b></a></td>
+	      <td><a href="https://github.com/QuanBlue/Portfolio"><b>[Web] Portfolio</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/QuanBlue/Portfolio?&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/QuanBlue/Portfolio?&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/QuanBlue/Portfolio?"/></td>
@@ -185,13 +185,39 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/QuanBlue/Portfolio?"/></td>
       </tr>
        <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Gmail-Remote-Control"><b>🎮 Gmail-Remote-Control</b></a></td>
+	      <td><a href="https://github.com/HCMUS-Project/Gmail-Remote-Control"><b>[App] Gmail-Remote-Control</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Gmail-Remote-Control?&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Gmail-Remote-Control?&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Gmail-Remote-Control?"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Gmail-Remote-Control?"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Gmail-Remote-Control?"/></td>
       </tr>
+      <tr>
+	      <td><a href="https://github.com/HCMUS-Project/Jurassic-Adventure-game"><b>[Game] Jurassic Adventure</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Jurassic-Adventure-game?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Jurassic-Adventure-game?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Jurassic-Adventure-game?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Jurassic-Adventure-game?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Jurassic-Adventure-game?"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/HCMUS-Project/Safety-application"><b>[App] Safety Application</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Safety-application?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Safety-application?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Safety-application?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Safety-application?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Safety-application?"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/HCMUS-Project/Storage-File-System.git"><b>[App] Storage File System</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Storage-File-System?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Storage-File-System?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Storage-File-System?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Storage-File-System?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Storage-File-System?"/></td>
+      </tr>
+      
+      
     </tbody>
   </table>
   <br />
