@@ -2,13 +2,12 @@
 
 <h1 align="center">Hi <img src="./assets/Hi.gif" width="30px">, I'm <b>NGUYEN THANH QUAN</b></h1>
 
-<p align="center"> 
+<div align="center"> 
     <a href="https://github.com/QuanBlue?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/QuanBlue?color=4C1&logo=github"></a>
     <a href="https://github.com/QuanBlue/QuanBlue" target="_blank"><img alt="Profile_Update" src="https://img.shields.io/github/last-commit/QuanBlue/QuanBlue?label=Profile%20update&style=fflat-square"></a>
-</p>
+</div>
 
 <div align="center">
-<h3> Connect with me<a href="https://gifyu.com/image/Zy2f"><img src="./assets/Handshake.gif" width="60"></a></h3> 
     <a href="https://quanblue.netlify.app/"><img alt="Website badge" src="https://img.shields.io/badge/Website-EC8B00?logo=google-chrome&logoColor=white"></a>
     <a href="https://linkedin.com/in/quanblue"><img alt="LinkedIn badge" src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=Linkedin&logoColor=white"></a>
     <a href="https://www.facebook.com/QuanBlueee/"><img alt="Facebook badge" src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
@@ -16,6 +15,7 @@
     <a href="[mailto:quannguyenthanh558@gmail.com](https://www.youtube.com/channel/UCALhAytLBhmG2un43YxU4mw)"><img alt="Gmail badge" src="https://img.shields.io/badge/Youtube-FF0000?logo=Youtube&logoColor=white"></a>
     <a href="mailto:quannguyenthanh558@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
+<br>
 
 ### STUDY
 
