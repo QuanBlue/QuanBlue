@@ -17,23 +17,31 @@
     <a href="mailto:quannguyenthanh558@gmail.com"><img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-E34133?logo=gmail&logoColor=white"></a>
 </div>
 
-#### NOW
+### STUDY
 
--  <img src="./Assets/Developer.gif" width="28"> Currently last-year undergraduate student at **VNUHCM-University of Science**, majoring in **Computer Networks & Cybersecurity**.
--  🎯 My goal is become a **DevOps engineer 💻**
+<table style="border-collapse: collapse;">
+    <tr>
+        <td align="center">
+            <img src="./assets/hcmus-logo.png" alt="hcmus logo" width="120px">
+        </td>
+        <td>
+            <h3 style="margin: 0;">VNUHCM - University of Science</h3> 
+            <sup style="color: gray;">2019 - 2023</sup>
+            <p>Bachelor of <b>Computer Network and Information Security</b></p>
+        </td>
+    </tr>
+</table>
 
 ### BIO
 
--  🔭 Kinda **self-motivated learner**.
--  &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp; Specifically interested in **Automation**, **Cyber Security** and **Web Development**.
--  <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to work on position <img src="https://img.shields.io/badge/DevOps Engineer-blue">
--  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ping me about **Job**.
--  <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; I enjoy **listening music** 🎧, **calisthenic** 🏋️‍♂️ and **play badminton** 🏸
--  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: &nbsp; <a href="mailto:quannguyenthanh558@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-quannguyenthanh558@gmail.com-E34133?logo=Gmail&logoColor=white"></a>
+- 🔭 Kinda **self-motivated learner**.
+- &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp; Specifically interested in **Automation**, **Cyber Security** and **Web Development**.
+- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to work on position <img src="https://img.shields.io/badge/DevOps Engineer-blue">
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ping me about **Job**.
+- <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; I enjoy **listening music** 🎧, **calisthenic** 🏋️‍♂️ and **play badminton** 🏸
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: &nbsp; <a href="mailto:quannguyenthanh558@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-quannguyenthanh558@gmail.com-E34133?logo=Gmail&logoColor=white"></a>
 
 ### TECHNOLOGY
-
-<img alt="Night Coding" src="./assets/Night-Coding.gif" align="right"/>
 
 <table>
     <tr>
@@ -62,15 +70,44 @@
             <img src="./assets/typescript_official.svg" height="30px" alt="typescript" title="Typescript"/>
             &nbsp;
             <img src="./assets/python.svg" height="30px" alt="python" title="Python"/>
+             &nbsp;
+            <img src="./assets/bash_script.svg" height="30px" alt="Shell-script" title="Shell-script"/>
         </td>
     </tr>
     <tr>
         <td>CI/CD</td>
         <td>
+            <img src="./assets/github_actions.svg" height="30px" alt="github_actions" title="Github Actions"/>
+        </td>
+    </tr>
+     <tr>
+        <td>Virtualization</td>
+        <td>
+            <img src="./assets/vagrant.svg" height="30px" alt="vagrant" title="Vagrant"/>
+            &nbsp;
+            <img src="./assets/virtualbox.svg" height="30px" alt="virtualbox" title="Virtualbox"/>
+            &nbsp;
+            <img src="./assets/vmware.svg" height="15px" alt="vmware" title="VMware"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Containerization</td>
+        <td>
             <img src="./assets/docker.svg" height="30px" alt="dockerfile" title="Docker"/>
+        </td>
+    </tr>
+     <tr>
+        <td>Monitoring and Logging</td>
+        <td>
+          <img src="./assets/grafana.svg" height="30px" alt="grafana" title="Grafana"/>
             &nbsp;
-            <img src="./assets/jenkins.svg" height="30px" alt="jenkinsfile" title="Jenkins"/>
-            &nbsp;
+            <img src="./assets/prometheus.svg" height="30px" alt="prometheus" title="Prometheus"/>
+        </td>
+    </tr>
+     <tr>
+        <td>Infrastructure as Code</td>
+        <td>
+          <img src="./assets/ansible.svg" height="30px" alt="ansible" title="Ansible"/>
         </td>
     </tr>
     <tr>
@@ -86,8 +123,6 @@
         <td>IDE/ Text Editor</td>
         <td>
             <img src="./assets/vscode.svg" height="30px" alt="vscode" title="VSCode"/>
-            &nbsp;
-            <img src="./assets/sublime_text.svg" height="30px" alt="sublime_text" title="Sublime Text"/>
             &nbsp;
         </td>
     </tr>
@@ -113,23 +148,6 @@
             <img src="./assets/figma_logo.svg" height="30px" alt="figma" title="Figma"/>
             &nbsp;
             <img src="./assets/photoshop.svg" height="30px" alt="photoshop" title="Photoshop"/>
-        </td>
-    </tr>
-</table>
-
-#### And
-
-<table>
-    <tr>
-        <th>I'm currently studying: </th>
-    </tr>
-    <tr>
-        <td>
-            <img src="./assets/golang.svg" height="30px" alt="golang" title="Golang"/>
-            &nbsp;
-            <img src="./assets/kubernetes.svg" height="30px" alt="kubernetes" title="Kubernetes"/>
-            &nbsp;
-            <img src="./assets/jest.png" height="30px" alt="jest" title="Jest"/>
         </td>
     </tr>
 </table>
@@ -176,15 +194,55 @@
     </thead>
     <tbody>
       <tr>
-	      <td><a href="https://github.com/QuanBlue/Portfolio"><b>[Web] Portfolio</b></a></td>
+	      <td><a href="https://github.com/QuanBlue/Portfolio"><b>Portfolio website</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/QuanBlue/Portfolio?&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/QuanBlue/Portfolio?&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/QuanBlue/Portfolio?"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/QuanBlue/Portfolio?"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/QuanBlue/Portfolio?"/></td>
       </tr>
+      <tr>
+	      <td><a href="https://github.com/QuanBlue/chat-grpc"><b>Chat gRPC application</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/QuanBlue/chat-grpc?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/QuanBlue/chat-grpc?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/QuanBlue/chat-grpc?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/QuanBlue/chat-grpc?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/QuanBlue/chat-grpc?"/></td>
+      </tr>
+      <tr>
+	      <td><a href="https://github.com/QuanBlue/tech-automator"><b>Technology automator</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/QuanBlue/tech-automator?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/QuanBlue/tech-automator?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/QuanBlue/tech-automator?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/QuanBlue/tech-automator?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/QuanBlue/tech-automator?"/></td>
+      </tr>
+      <tr>
+	    <td><a href="https://github.com/QuanBlue/tech-cheatsheets"><b>Technology cheat sheets</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/QuanBlue/tech-cheatsheets?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/QuanBlue/tech-cheatsheets?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/QuanBlue/tech-cheatsheets?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/QuanBlue/tech-cheatsheets?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/QuanBlue/tech-cheatsheets?"/></td>
+      </tr>
+      <tr>
+	    <td><a href="https://github.com/QuanBlue/ansible-web-app-deployment"><b>Ansible auto deploy Web application</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/QuanBlue/ansible-web-app-deployment?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/QuanBlue/ansible-web-app-deployment?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/QuanBlue/ansible-web-app-deployment?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/QuanBlue/ansible-web-app-deployment?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/QuanBlue/ansible-web-app-deployment?"/></td>
+      </tr>
+      <tr>
+	    <td><a href="https://github.com/QuanBlue/linux-auto-setup"><b>Linux auto setup</b></a></td>
+        <td><img alt="Stars" src="https://img.shields.io/github/stars/QuanBlue/linux-auto-setup?&labelColor=343b41"/></td>
+        <td><img alt="Forks" src="https://img.shields.io/github/forks/QuanBlue/linux-auto-setup?&labelColor=343b41"/></td>
+        <td><img alt="Issues" src="https://img.shields.io/github/issues/QuanBlue/linux-auto-setup?"/></td>
+        <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/QuanBlue/linux-auto-setup?"/></td>
+        <td><img alt="Language" src="https://img.shields.io/github/languages/top/QuanBlue/linux-auto-setup?"/></td>
+      </tr>
        <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Gmail-Remote-Control"><b>[App] Gmail-Remote-Control</b></a></td>
+	      <td><a href="https://github.com/HCMUS-Project/Gmail Remote Control"><b>Gmail remote control application</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Gmail-Remote-Control?&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Gmail-Remote-Control?&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Gmail-Remote-Control?"/></td>
@@ -192,7 +250,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Gmail-Remote-Control?"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Jurassic-Adventure-game"><b>[Game] Jurassic Adventure</b></a></td>
+	      <td><a href="https://github.com/HCMUS-Project/Jurassic-Adventure-game"><b>Jurassic Adventure game</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Jurassic-Adventure-game?&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Jurassic-Adventure-game?&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Jurassic-Adventure-game?"/></td>
@@ -200,7 +258,7 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Jurassic-Adventure-game?"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Safety-application"><b>[App] Safety Application</b></a></td>
+	      <td><a href="https://github.com/HCMUS-Project/Safety-application"><b>Safety application</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Safety-application?&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Safety-application?&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Safety-application?"/></td>
@@ -208,15 +266,13 @@
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Safety-application?"/></td>
       </tr>
       <tr>
-	      <td><a href="https://github.com/HCMUS-Project/Storage-File-System.git"><b>[App] Storage File System</b></a></td>
+	      <td><a href="https://github.com/HCMUS-Project/Storage-File-System.git"><b>Storage File System application</b></a></td>
         <td><img alt="Stars" src="https://img.shields.io/github/stars/HCMUS-Project/Storage-File-System?&labelColor=343b41"/></td>
         <td><img alt="Forks" src="https://img.shields.io/github/forks/HCMUS-Project/Storage-File-System?&labelColor=343b41"/></td>
         <td><img alt="Issues" src="https://img.shields.io/github/issues/HCMUS-Project/Storage-File-System?"/></td>
         <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/HCMUS-Project/Storage-File-System?"/></td>
         <td><img alt="Language" src="https://img.shields.io/github/languages/top/HCMUS-Project/Storage-File-System?"/></td>
       </tr>
-      
-      
     </tbody>
   </table>
   <br />
