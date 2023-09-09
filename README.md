@@ -1,6 +1,9 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/QuanBlue)
 
-<h1 align="center">Hi <img src="./assets/Hi.gif" width="30px">, I'm <b>NGUYEN THANH QUAN</b></h1>
+<h1 align="center">
+    Hi <img src="./assets/Hi.gif" width="30px">, I'm <b>NGUYEN THANH QUAN</b> 
+    <sub>(Quan Blue)</sub>
+</h1>
 
 <div align="center"> 
     <a href="https://github.com/QuanBlue?tab=followers"><img alt="Followers" src="https://img.shields.io/github/followers/QuanBlue?color=4C1&logo=github"></a>
@@ -45,110 +48,157 @@
 
 <table>
     <tr>
+        <td></td>
+        <td><b>Using</b></td>
+        <td><b>Learning</b></td>
+    </tr>
+    <tr>
         <td>Framework</td>
         <td>
-            <img src="./assets/reactjs.svg" height="30px" alt="reactjs" title="React JS"/>
+            <img src="./assets/technology/reactjs.svg" height="30px" alt="reactjs" title="React JS"/>
             &nbsp;
-            <img src="./assets/expressjs.svg" height="30px" alt="expressjs" title="Express JS"/>
+            <img src="./assets/technology/expressjs.svg" height="30px" alt="expressjs" title="Express JS"/>
             &nbsp;
-            <img src="./assets/nextjs.svg" height="30px" alt="nextjs" title="Next JS"/>
+            <img src="./assets/technology/nextjs.svg" height="30px" alt="nextjs" title="Next JS"/>
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>Languages</td>
         <td>
-            <img src="./assets/c++.svg" height="30px" alt="C/C++" title="C/C++"/>
+            <img src="./assets/technology/c_plus_plus.svg" height="30px" alt="C/C++" title="C/C++"/>
             &nbsp;
-            <img src="./assets/csharp.svg" height="30px" alt="C#" title="C#"/>
+            <img src="./assets/technology/c_sharp.svg" height="30px" alt="C#" title="C#"/>
             &nbsp;
-            <img src="./assets/html.svg" height="30px" alt="html" title="HTML"/>
+            <img src="./assets/technology/html.svg" height="30px" alt="html" title="HTML"/>
             &nbsp;
-            <img src="./assets/css.svg" height="30px" alt="css" title="CSS"/>
+            <img src="./assets/technology/css.svg" height="30px" alt="css" title="CSS"/>
             &nbsp;
-            <img src="./assets/js_official.svg" height="30px" alt="javascript" title="Javascript"/>
+            <img src="./assets/technology/javascript.svg" height="30px" alt="javascript" title="Javascript"/>
             &nbsp;
-            <img src="./assets/typescript_official.svg" height="30px" alt="typescript" title="Typescript"/>
+            <img src="./assets/technology/typescript.svg" height="30px" alt="typescript" title="Typescript"/>
             &nbsp;
-            <img src="./assets/python.svg" height="30px" alt="python" title="Python"/>
+            <img src="./assets/technology/python.svg" height="30px" alt="python" title="Python"/>
              &nbsp;
-            <img src="./assets/bash_script.svg" height="30px" alt="Shell-script" title="Shell-script"/>
+            <img src="./assets/technology/bash_script.svg" height="30px" alt="Shell-script" title="Shell-script"/>
+        </td>
+        <td>
+            <img src="./assets/technology/golang.svg" height="30px" alt="Go" title="Go"/>
         </td>
     </tr>
     <tr>
         <td>CI/CD</td>
         <td>
-            <img src="./assets/github_actions.svg" height="30px" alt="github_actions" title="Github Actions"/>
+            <img src="./assets/technology/github_actions.svg" height="30px" alt="github_actions" title="Github Actions"/>
+        </td>
+        <td>
+            <img src="./assets/technology/jenkins.svg" height="30px" alt="Jenkins" title="Jenkins"/>            
         </td>
     </tr>
      <tr>
         <td>Virtualization</td>
         <td>
-            <img src="./assets/vagrant.svg" height="30px" alt="vagrant" title="Vagrant"/>
+            <img src="./assets/technology/vagrant.svg" height="30px" alt="vagrant" title="Vagrant"/>
             &nbsp;
-            <img src="./assets/virtualbox.svg" height="30px" alt="virtualbox" title="Virtualbox"/>
+            <img src="./assets/technology/virtualbox.svg" height="30px" alt="virtualbox" title="Virtualbox"/>
             &nbsp;
-            <img src="./assets/vmware.svg" height="15px" alt="vmware" title="VMware"/>
+            <img src="./assets/technology/vmware.svg" height="15px" alt="vmware" title="VMware"/>
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>Containerization</td>
         <td>
-            <img src="./assets/docker.svg" height="30px" alt="dockerfile" title="Docker"/>
+            <img src="./assets/technology/docker.svg" height="30px" alt="docker" title="Docker"/>
+        </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Container Orchestration</td>
+        <td>
+            <img src="./assets/technology/docker_swarm.png" height="30px" alt="docker swarm" title="Docker swarm"/>
+        </td>
+        <td>
+            <img src="./assets/technology/kubernetes.svg" height="30px" alt="kubernetes" title="Kubernetes"/>
+        </td>
+    </tr>
+    <tr>
+        <td>Container Management</td>
+        <td>
+        </td>
+        <td>
+            <img src="./assets/technology/rancher.svg" height="30px" alt="rancher" title="Rancher"/>  
+            <img src="./assets/technology/portainer.svg" height="30px" alt="portainer" title="Portainer"/>  
         </td>
     </tr>
      <tr>
         <td>Monitoring and Logging</td>
         <td>
-          <img src="./assets/grafana.svg" height="30px" alt="grafana" title="Grafana"/>
+          <img src="./assets/technology/grafana.svg" height="30px" alt="grafana" title="Grafana"/>
             &nbsp;
-            <img src="./assets/prometheus.svg" height="30px" alt="prometheus" title="Prometheus"/>
+            <img src="./assets/technology/prometheus.svg" height="30px" alt="prometheus" title="Prometheus"/>
         </td>
+        <td></td>
     </tr>
      <tr>
         <td>Infrastructure as Code</td>
         <td>
-          <img src="./assets/ansible.svg" height="30px" alt="ansible" title="Ansible"/>
+          <img src="./assets/technology/ansible.svg" height="30px" alt="ansible" title="Ansible"/>
+        </td>
+        <td>
+            <img src="./assets/technology/terraform.svg" height="30px" alt="terraform" title="Terraform"/>
+        </td>
+    </tr>
+         <tr>
+        <td>Cloud Platform</td>
+        <td>
+        </td>
+        <td>
+            <img src="./assets/technology/aws.svg" height="30px" alt="aws" title="Amazon Web Service"/>
         </td>
     </tr>
     <tr>
         <td>SCM</td>
         <td>
-            <img src="./assets/git.svg" height="30px" alt="git" title="Git"/>
-            &nbsp;
-            <img src="./assets/github_logo_white.svg" height="30px" alt="github" title="Github"/>
+            <img src="./assets/technology/github.svg" height="30px" alt="github" title="Github"/>
             &nbsp;
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>IDE/ Text Editor</td>
         <td>
-            <img src="./assets/vscode.svg" height="30px" alt="vscode" title="VSCode"/>
+            <img src="./assets/technology/vscode.svg" height="30px" alt="vscode" title="VSCode"/>
             &nbsp;
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>Database</td>
         <td>
-            <img src="./assets/mongo.svg" height="30px" alt="mongodb" title="MongoDB"/>
+            <img src="./assets/technology/mongo.svg" height="30px" alt="mongodb" title="MongoDB"/>
             &nbsp;
-            <img src="./assets/microsoft_sql_server.png" height="30px" alt="msSQLserver" title="SQL Server"/>
+            <img src="./assets/technology/sql_server.png" height="30px" alt="msSQLserver" title="SQL Server"/>
         </td>
+        <td></td>
     </tr>
      <tr>
         <td>API</td>
         <td>
-            <img src="./assets/restapi.png" height="30px" alt="restapi" title="Rest API"/> 
+            <img src="./assets/technology/rest_api.png" height="30px" alt="restapi" title="Rest API"/> 
             &nbsp;
-            <img src="./assets/graphql.png" height="30px" alt="graphql" title="GraphQL"/>
+            <img src="./assets/technology/graphql.png" height="30px" alt="graphql" title="GraphQL"/>
         </td>
+        <td></td>
     </tr>
     <tr>
         <td>Design Tools</td>
         <td>
-            <img src="./assets/figma_logo.svg" height="30px" alt="figma" title="Figma"/>
+            <img src="./assets/technology/figma.svg" height="30px" alt="figma" title="Figma"/>
             &nbsp;
-            <img src="./assets/photoshop.svg" height="30px" alt="photoshop" title="Photoshop"/>
+            <img src="./assets/technology/photoshop.svg" height="30px" alt="photoshop" title="Photoshop"/>
         </td>
+        <td></td>
     </tr>
 </table>
 
