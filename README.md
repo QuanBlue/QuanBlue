@@ -20,6 +20,13 @@
 </div>
 <br>
 
+### ABOUT ME
+
+- **Looking to work on position:** DevOps Engineer
+- **Interested in:** Automation, Cyber Security and Web Development.
+- **Hobby:** calisthenic, badminton
+- **Email:** &nbsp; <a href="mailto:quannguyenthanh558@gmail.com" target="_blank">quannguyenthanh558@gmail.com</a>
+
 ### STUDY
 
 <table style="border-collapse: collapse;">
@@ -34,15 +41,6 @@
         </td>
     </tr>
 </table>
-
-### BIO
-
-- 🔭 Kinda **self-motivated learner**.
-- &nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12"/>&nbsp; Specifically interested in **Automation**, **Cyber Security** and **Web Development**.
-- <img align ='center' width ='27' src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif'> Looking to work on position <img src="https://img.shields.io/badge/DevOps Engineer-blue">
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25"/> Ping me about **Job**.
-- <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="20" />&nbsp; I enjoy **listening music** 🎧, **calisthenic** 🏋️‍♂️ and **play badminton** 🏸
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25"/> Reach me: &nbsp; <a href="mailto:quannguyenthanh558@gmail.com" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-quannguyenthanh558@gmail.com-E34133?logo=Gmail&logoColor=white"></a>
 
 ### TECHNOLOGY
 
