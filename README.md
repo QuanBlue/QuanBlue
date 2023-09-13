@@ -1,8 +1,6 @@
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://github.com/QuanBlue)
-
 <h1 align="center">
-    Hi <img src="./assets/Hi.gif" width="30px">, I'm <b>NGUYEN THANH QUAN</b> 
-    <sub>(Quan Blue)</sub>
+    Hi <img src="./assets/Hi.gif" width="30px"> <br>
+    I'm <b>THANH QUAN</b> (Quan Blue)
 </h1>
 
 <div align="center"> 
